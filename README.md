@@ -1,6 +1,7 @@
 
-#Hello :wave:
-##Welcome to my GitHub!
+<h1>Hello :wave:
+<h2>Welcome to my GitHub!
 
-####Here's a little about me,
+
+<h4>Here's a little about me,
   
